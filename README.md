@@ -9,9 +9,10 @@
 - 👯 I’m looking to collaborate on SoTA papers reading groups and open source collaborative projects in any data driven field.
 
 - :page_facing_up: Selected Publications:
-  1. ["Neural Estimation and Optimization of Directed Information over Continuous Spaces"](https://arxiv.org/abs/2203.14743): Dor Tsur, Ziv Aharoni, Ziv Goldfeld, Haim Permuter.
-  2. "Optimizing Estimated Directed Information over Discrete Alphabets": Dor Tsur, Ziv Aharoni, Ziv Goldfeld, Haim Permuter.
-  *Presented in ISIT22, Aalto university, Espoo, Finalnd.*
+  1. ["Neural Estimation and Optimization of Directed Information over Continuous Spaces"](https://arxiv.org/abs/2203.14743): Dor Tsur, Ziv Aharoni, Ziv Goldfeld, Haim Permuter. 
+  *Under review for IEEE Transactions on information theory, presented in part in ISIT 2020.*
+  2. ["Optimizing Estimated Directed Information over Discrete Alphabets"](https://arxiv.org/abs/2301.00621): Dor Tsur, Ziv Aharoni, Ziv Goldfeld, Haim Permuter.
+  *Under review for IEEE Transactions on information theory, presented in part in ISIT 2022.*
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
